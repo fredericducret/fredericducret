@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredericducret
-- 👀 I’m interested in blockchain and cyber security
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in blockchain, ethereum, NFT, SBT and cyber security
+- 🌱 I’m currently learning smart contract, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
